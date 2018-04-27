@@ -1,5 +1,5 @@
 {
-    "name": "<YOUR NAME>",
+    "name": "Sebastian Norena",
     "netlify_subdomain": "<YOUR NETLIFY URL>",
     "optional_dns": "<YOUR CUSTOM DOMAIN NAME IF YOU HAVE ONE OR PLAN TO USE ONE>"
     "blog_post_1": {
@@ -17,6 +17,6 @@
         "url": "<MEDIUM OR WEB URL>",
         "keywords": ["<KWD1>","<KWD2>","<KWD3>"]
     },
-    "my_linkedin": "<URL TO LINKEDIN>",
-    "latex": "<YOUR LATEX (REMEMBER VALID JSON)>"
+    "my_linkedin": "URL TO LINKEDIN",
+    "latex": "YOUR LATEX (REMEMBER VALID JSON)"
 }
